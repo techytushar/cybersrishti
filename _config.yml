@@ -1,0 +1,13 @@
+# Site settings
+title: Cybersrishti
+description: Department of Computer Science & Information Technology, Kanpur Institute of Technology
+baseurl: / # the subpath of your site, e.g. /blog
+#url: / # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Cybersrishti
+user_description: We are a team of programming enthusiasts who love to solve challenges, participate in contests, share our knowledge and help each other with their problems. 
+user_title: Department of Computer Science & Information Technology, Kanpur Institute of Technology
+email: info@kit.ac.in
+
+exclude: ['package.json', 'src' , 'node_modules']
