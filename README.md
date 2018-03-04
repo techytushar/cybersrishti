@@ -1,0 +1,1 @@
+## Community site for Cybersrishti, the Computer Science Club of Kanpur Institute Of Technology. Made with Jekyll and hosted on Github Pages
