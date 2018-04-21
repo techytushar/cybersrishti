@@ -1,7 +1,7 @@
 # Site settings
 title: Cybersrishti
 description: Department of Computer Science & Information Technology, Kanpur Institute of Technology
-baseurl: https://techytushar.github.io/cybersrishti/ # the subpath of your site, e.g. /blog
+baseurl: https://techytushar.github.io/cybersrishti/
 
 
 # User settings
